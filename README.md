@@ -24,7 +24,7 @@ public void onScannedRobot() {
 ```
 
 ## Roboter Demonstration
-https://user-images.githubusercontent.com/89124854/151142657-2d5da5f6-4966-4d2a-b4ee-c0c150121877.mp4
+https://user-images.githubusercontent.com/89124854/151142828-4f9b4318-dafb-41b3-9884-608f48e59c24.mp4
 
 ## Reflexion und Verifikation
 ### Verifikation:
